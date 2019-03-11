@@ -1,0 +1,5 @@
+sl.no, color
+1, red
+2, yellow
+3, green
+4, blue
